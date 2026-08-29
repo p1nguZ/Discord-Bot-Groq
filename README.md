@@ -4,7 +4,7 @@ Bot para Discord com inteligência artificial, sistema de pontos, roleta, histó
 Instale o Python 3.10 ou superior.
 Instale as dependências:
 Bash
-pip install discord.py requests
+pip install discord.py requests ou py -m pip install -U discord.py requests
 Crie um bot no Discord Developer Portal, copie o token e convide o bot para o servidor com os comandos slash e as permissões necessárias.
 Crie uma chave da API no console da Groq.
 Deixe apenas estes dois arquivos na pasta:
